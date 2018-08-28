@@ -1,0 +1,11 @@
+{
+  "name": "rhajdacki.github.io",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://rhajdacki@github.com/rhajdacki/rhajdacki.github.io",
+  "author": "Rafał Hajdacki <rafal@hajdacki.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.9.7"
+  }
+}
