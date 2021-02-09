@@ -13,7 +13,7 @@ Odświeżający drink według klasycznego przepisu.
 - Woda gazowana : 30g
 - Plasterek pomarańczy
 
-1. Wypełnij szklankę lodem.
+1. Wypełnij duży kieliszek do czerwonego wina lodem.
 2. Wlej po koleji płyny do szkła.
 3. Delikatnie zamieszaj składniki łyżką barmańską.
 4. Udekrój szklankę plasterkiem pomarańczy.
