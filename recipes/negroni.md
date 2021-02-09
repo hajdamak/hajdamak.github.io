@@ -25,7 +25,7 @@ Prosty, mocny drink według klasycznego przepisu.
 3. Wypełnij szklanicę barmańską lodem.
 4. Wlej alkohole do szklanicy.
 5. Mieszaj składniki łyżką barmańską 40s.
-6. Przelej płyn do szklanki.
+6. Przelej płyn do szklanki używając sitka Julep.
 
 ### Ozdobienie
 
