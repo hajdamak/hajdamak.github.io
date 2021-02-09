@@ -10,29 +10,30 @@ Prosty, mocny drink według klasycznego przepisu.
 
 ### Schłódź szklankę.
 
-- Lód : 120g
+- Lód
 
 1. Wypełnij szklankę rocks/old fashioned lodem.
+2. Zalej wodą.
 
 ### Wymieszaj składniki.
 
-- Lód : 240g
+- Lód
 - Gin : 30g
 - Słodki Vermouth : 30g
 - Campari : 30g
 
-2. Wypełnij szklanicę barmańską lodem.
-3. Wlej alkohole do szklanicy.
-4. Mieszaj składniki łyżką barmańską 40s.
+3. Wypełnij szklanicę barmańską lodem.
+4. Wlej alkohole do szklanicy.
+5. Mieszaj składniki łyżką barmańską 40s.
+6. Przelej płyn do szklanki.
 
 ### Ozdobienie
 
 - Skórka pomarańczy
 
-5. Przelej płyn do szklanki.
-6. Wytnik pasek skórki pomarańczy obieraczką.
-6. Wyciśnij olejki ze skórki na płyn.
-7. Udekrój szklankę skórką zwiniętą w spiralę.
+7. Wytnij pasek skórki pomarańczy obieraczką.
+8. Wyciśnij olejki ze skórki na płyn.
+9. Udekrój szklankę skórką zwiniętą w spiralę.
 
 ## Uwagi
 
