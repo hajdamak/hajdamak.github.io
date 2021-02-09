@@ -12,7 +12,7 @@ Prosty, mocny drink według klasycznego przepisu.
 
 - Lód
 
-1. Wypełnij szklankę rocks/old fashioned lodem.
+1. Wypełnij szklankę rocks lodem.
 2. Zalej wodą.
 
 ### Wymieszaj składniki.
