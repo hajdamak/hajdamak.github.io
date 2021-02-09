@@ -1,8 +1,7 @@
 # Negroni
 
-- Wynik: 100g
+- Wynik: jedna porcja
 - Czas: 10m
-- Przechowywanie: N/A
 
 Prosty, mocny drink według klasycznego przepisu.
 

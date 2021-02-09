@@ -1,8 +1,7 @@
 # Margarita
 
-- Wynik: 150g
+- Wynik: jedna porcja
 - Czas: 10m
-- Przechowywanie: N/A
 
 Uśredniona wersja dwóch popularnych (z syropem z agawy i Curaçao).
 
@@ -42,3 +41,4 @@ posyp solą.
 
 - [Źródło](https://www.youtube.com/watch?v=m1wDJea1vbA)
 - [Źródło](https://www.liquor.com/recipes/margarita)
+- Inna, bardziej dymna wersja: Mezcal zamiast Tequili.
