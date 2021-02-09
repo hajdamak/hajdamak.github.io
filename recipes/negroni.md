@@ -3,9 +3,9 @@
 - Wynik: jedna porcja
 - Czas: 10m
 
-Prosty, mocny drink według klasycznego przepisu.
+Według klasycznego przepisu.
 
-## Kroki 
+## Kroki
 
 ### Schłódź szklankę.
 

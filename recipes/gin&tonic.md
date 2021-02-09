@@ -3,9 +3,9 @@
 - Wynik: jedna porcja
 - Czas: 10m
 
-Odświeżający drink według klasycznego przepisu.
+Według klasycznego przepisu.
 
-## Kroki 
+## Kroki
 
 - Kostki lodu
 - Gin : 60g

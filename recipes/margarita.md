@@ -3,9 +3,9 @@
 - Wynik: jedna porcja
 - Czas: 10m
 
-Uśredniona wersja dwóch popularnych (z syropem z agawy i Curaçao).
+Uśredniona wersja dwóch popularnych: z syropem z agawy i Curaçao.
 
-## Kroki 
+## Kroki
 
 ### Schłódź i przygoutj kieliszek.
 
