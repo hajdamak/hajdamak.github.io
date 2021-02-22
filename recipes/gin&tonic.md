@@ -1,6 +1,6 @@
 # Gin z tonikiem
 
-- Wynik: jedna porcja
+- Wynik: 1 porcja
 - Czas: 10m
 
 Według klasycznego przepisu.

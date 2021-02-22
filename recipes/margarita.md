@@ -1,6 +1,6 @@
 # Margarita
 
-- Wynik: jedna porcja
+- Wynik: 1 porcja
 - Czas: 10m
 
 Uśredniona wersja dwóch popularnych: z syropem z agawy i Curaçao.
