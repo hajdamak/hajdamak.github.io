@@ -28,7 +28,7 @@ Agregacja 3 róznych przepisów.
 5. Mieszaj składniki łyżką barmańską 45s.
 6. Przelej płyn do szklanki używając sitka Julep.
 
-### Ozdobienie
+### Ozdób drink.
 
 - skórka cytryny : 1
 

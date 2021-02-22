@@ -26,7 +26,7 @@ Według klasycznego przepisu.
 5. Mieszaj składniki łyżką barmańską 45s.
 6. Przelej płyn do szklanki używając sitka Julep.
 
-### Ozdobienie
+### Ozdób drink.
 
 - wisienka maraschino z zalewy : 2
 
@@ -37,5 +37,5 @@ Według klasycznego przepisu.
 - [Źródło](https://en.wikipedia.org/wiki/Manhattan_(cocktail))
 - [Źródło](https://www.liquor.com/recipes/manhattan-2/)
 - [Źródło](https://www.cocktailchemistrylab.com/home/manhattan)
-- Można użyć/miksować też inne bittersy np. pomarańczowy lub Peychaud's
+- Można użyć/miksować też inne bittersy np. pomarańczowy lub Peychaud's.
 - Zamiast żytniej whiskey można użyć bourbonu.

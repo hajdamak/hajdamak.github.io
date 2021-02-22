@@ -14,7 +14,7 @@ Według klasycznego przepisu.
 - plasterek pomarańczy : 1
 
 1. Wypełnij duży kieliszek do czerwonego wina lodem.
-2. Wlej po koleji płyny do szkła.
+2. Wlej po kolei płyny do szkła.
 3. Delikatnie zamieszaj składniki łyżką barmańską.
 4. Udekrój szklankę plasterkiem pomarańczy.
 

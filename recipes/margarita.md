@@ -31,7 +31,7 @@ posyp solą.
 6. Bardzo mocno wymieszaj składniki.
 7. Przelej płyn do szklanki używając sitka Hawthorne.
 
-### Ozdobienie
+### Ozdób drink.
 
 - plasterek limonki : 1
 

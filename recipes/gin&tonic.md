@@ -13,7 +13,7 @@ Według klasycznego przepisu.
 - plasterek limonki : 1
 
 1. Wypełnij szklankę highball lodem.
-2. Wlej po koleji płyny do szkła.
+2. Wlej po kolei płyny do szkła.
 3. Delikatnie zamieszaj składniki łyżką barmańską.
 4. Udekrój szklankę plasterkiem limonki.
 
