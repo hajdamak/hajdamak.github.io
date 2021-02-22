@@ -7,7 +7,7 @@ Uśredniona wersja dwóch popularnych: z syropem z agawy i Curaçao.
 
 ## Kroki
 
-### Schłódź i przygoutj kieliszek.
+### Schłódź i przygoutj szkło.
 
 - Lód
 - Sól

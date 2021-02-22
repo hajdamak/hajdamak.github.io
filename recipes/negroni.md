@@ -7,7 +7,7 @@ Według klasycznego przepisu.
 
 ## Kroki
 
-### Schłódź szklankę.
+### Schłódź szkło.
 
 - Lód
 
@@ -22,7 +22,7 @@ Według klasycznego przepisu.
 - Campari : 30g
 
 3. Wypełnij szklanicę barmańską lodem.
-4. Wlej alkohole do szklanicy.
+4. Wlej składniki do szklanicy.
 5. Mieszaj składniki łyżką barmańską 40s.
 6. Przelej płyn do szklanki używając sitka Julep.
 
