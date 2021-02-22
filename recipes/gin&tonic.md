@@ -10,7 +10,7 @@ Według klasycznego przepisu.
 - kostki lodu
 - gin : 60g
 - tonik : 120g
-- plasterek limonki 
+- plasterek limonki : 1
 
 1. Wypełnij szklankę highball lodem.
 2. Wlej po koleji płyny do szkła.

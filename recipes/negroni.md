@@ -28,7 +28,7 @@ Według klasycznego przepisu.
 
 ### Ozdobienie
 
-- skórka pomarańczy
+- skórka pomarańczy : 1
 
 7. Wytnij pasek skórki pomarańczy obieraczką.
 8. Wyciśnij olejki ze skórki na płyn.

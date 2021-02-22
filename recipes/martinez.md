@@ -30,7 +30,7 @@ Agregacja 3 róznych przepisów.
 
 ### Ozdobienie
 
-- Skórka cytryny
+- skórka cytryny : 1
 
 7. Wytnij pasek skórki cytryny obieraczką.
 8. Wyciśnij olejki ze skórki na płyn.

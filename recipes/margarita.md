@@ -33,7 +33,7 @@ posyp solą.
 
 ### Ozdobienie
 
-- plasterek limonki
+- plasterek limonki : 1
 
 8. Udekrój szklankę plasterkiem limonki.
 
