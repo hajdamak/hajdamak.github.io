@@ -9,16 +9,16 @@ Agregacja 3 róznych przepisów.
 
 ### Schłódź szkło.
 
-- Lód
+- lód
 
 1. Wypełnij kieliszek coupe lodem.
 2. Zalej wodą.
 
 ### Wymieszaj składniki.
 
-- Lód
-- Gin : 45g
-- Słodki Vermouth : 45g
+- lód
+- gin : 45g
+- słodki Vermouth : 45g
 - Maraschino : 5g / 1 łyżka barowa
 - bitters Angostura : 0,9g / 1 dash
 - bitters pomarańczowy : 0,9g / 1 dash

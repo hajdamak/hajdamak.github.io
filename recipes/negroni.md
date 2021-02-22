@@ -9,26 +9,26 @@ Według klasycznego przepisu.
 
 ### Schłódź szkło.
 
-- Lód
+- lód
 
 1. Wypełnij szklankę rocks lodem.
 2. Zalej wodą.
 
 ### Wymieszaj składniki.
 
-- Lód
-- Gin : 30g
-- Słodki Vermouth : 30g
+- lód
+- gin : 30g
+- słodki Vermouth : 30g
 - Campari : 30g
 
 3. Wypełnij szklanicę barmańską lodem.
 4. Wlej składniki do szklanicy.
-5. Mieszaj składniki łyżką barmańską 40s.
+5. Mieszaj składniki łyżką barmańską 45s.
 6. Przelej płyn do szklanki używając sitka Julep.
 
 ### Ozdobienie
 
-- Skórka pomarańczy
+- skórka pomarańczy
 
 7. Wytnij pasek skórki pomarańczy obieraczką.
 8. Wyciśnij olejki ze skórki na płyn.

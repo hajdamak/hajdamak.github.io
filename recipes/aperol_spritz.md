@@ -7,11 +7,11 @@ Według klasycznego przepisu.
 
 ## Kroki
 
-- Kostki lodu
+- kostki lodu
 - Prosecco : 90g
 - Aperol : 60g
-- Woda gazowana : 30g
-- Plasterek pomarańczy
+- woda gazowana : 30g
+- plasterek pomarańczy
 
 1. Wypełnij duży kieliszek do czerwonego wina lodem.
 2. Wlej po koleji płyny do szkła.

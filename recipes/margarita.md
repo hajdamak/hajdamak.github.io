@@ -9,9 +9,9 @@ Uśredniona wersja dwóch popularnych: z syropem z agawy i Curaçao.
 
 ### Schłódź i przygoutj szkło.
 
-- Lód
-- Sól
-- Limonka
+- lód
+- sól
+- limonka
 
 1. Zwilż krawędź kieliszka margarita lub szklanki rocks przeciętą limonką i
 posyp solą.
@@ -20,11 +20,11 @@ posyp solą.
 
 ### Wymieszaj składniki.
 
-- Tequila : 60g
+- tequila : 60g
 - Curaçao lub triple sec : 30g
-- Syrop z agawy : 15g
-- Świeży sok z limonki : 30g / ~jedna limonka
-- Lód
+- syrop z agawy : 15g
+- świeży sok z limonki : 30g / ~jedna limonka
+- lód
 
 4. Wlej składniki do shakera.
 5. Wypełnij shaker lodem.
@@ -33,7 +33,7 @@ posyp solą.
 
 ### Ozdobienie
 
-- Plasterek limonki
+- plasterek limonki
 
 8. Udekrój szklankę plasterkiem limonki.
 
